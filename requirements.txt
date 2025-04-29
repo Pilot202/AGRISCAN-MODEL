@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+python-jose
+passlib
+tensorflow
+pillow
+boto3
+sqlalchemy
+pymysql
